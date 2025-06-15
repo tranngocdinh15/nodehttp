@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "name": "ha370026",
+    "email": "ha370026@student.hcmute.edu.vn",
+    "createdAt": "2025-06-14T16:57:52.000Z",
+    "updatedAt": "2025-06-14T16:57:52.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Nguyen Van An",
+    "email": "nguyenvanan@example.com",
+    "createdAt": "2025-06-14T16:55:30.000Z",
+    "updatedAt": "2025-06-14T16:55:30.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Tran Thi Binh",
+    "email": "tranthibinh@example.com",
+    "createdAt": "2025-06-14T16:50:15.000Z",
+    "updatedAt": "2025-06-14T16:50:15.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Le Van Cuong",
+    "email": "levancuong@example.com",
+    "createdAt": "2025-06-14T16:45:22.000Z",
+    "updatedAt": "2025-06-14T16:45:22.000Z"
+  },
+  {
+    "id": 5,
+    "name": "Pham Thi Dung",
+    "email": "phamthidung@example.com",
+    "createdAt": "2025-06-14T16:40:08.000Z",
+    "updatedAt": "2025-06-14T16:40:08.000Z"
+  },
+  {
+    "id": 6,
+    "name": "123",
+    "email": "a@gmail.com",
+    "createdAt": "2025-06-15T04:15:03.654Z"
+  },
+  {
+    "id": 7,
+    "name": "123",
+    "email": "a@gmail.com",
+    "createdAt": "2025-06-15T04:16:22.281Z"
+  }
+]

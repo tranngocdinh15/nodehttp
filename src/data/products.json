@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone XYZ",
+    "price": 499.99,
+    "description": "Latest model with 128GB storage and 6GB RAM",
+    "createdAt": "2025-06-10T14:30:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Wireless Headphones",
+    "price": 89.99,
+    "description": "Noise-cancelling with 30-hour battery life",
+    "createdAt": "2025-06-11T09:15:00.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Laptop Pro",
+    "price": 1299.99,
+    "description": "16-inch screen, i7 processor, 16GB RAM, 512GB SSD",
+    "createdAt": "2025-06-09T11:20:00.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Smart Watch",
+    "price": 199.99,
+    "description": "Fitness tracking, heart rate monitor, 3-day battery life",
+    "createdAt": "2025-06-12T16:45:00.000Z"
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Speaker",
+    "price": 59.99,
+    "createdAt": "2025-06-13T10:30:00.000Z"
+  }
+]

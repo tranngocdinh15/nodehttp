@@ -1,0 +1,29 @@
+{
+  "name": "http-server-project",
+  "version": "1.0.0",
+  "description": "Complete HTTP server implementation with REST API",
+  "main": "src/server.ts",
+  "scripts": {
+    "start": "ts-node src/server.ts",
+    "dev": "nodemon",
+    "dev:watch": "nodemon --watch src --ext ts --exec \"ts-node src/server.ts\"",
+    "dev:debug": "nodemon --inspect --watch src --ext ts --exec \"ts-node src/server.ts\"",
+    "build": "tsc",
+    "build:watch": "tsc --watch",
+    "test": "node dist/server.js",
+    "clean": "rm -rf dist",
+    "type-check": "tsc --noEmit"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.6",
+    "@types/formidable": "^3.4.5",
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
