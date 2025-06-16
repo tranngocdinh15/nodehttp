@@ -18,8 +18,3 @@ openssl x509 -req -in certs/server.csr -signkey certs/server.key -out certs/serv
 # Clean up CSR file
 rm certs/server.csr
 
-echo "✅ SSL certificates generated successfully!"
-echo "📁 Files created:"
-echo "   - certs/server.key (Private Key)"
-echo "   - certs/server.crt (Certificate)"
-echo "
